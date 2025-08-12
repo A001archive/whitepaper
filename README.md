@@ -311,6 +311,4 @@ For those who prefer the status quo: See you in the logs.
 *Technical documentation: Coming to those who need it*  
 *Current status: Watching*
 
----
 
-`EOF`
